@@ -4,3 +4,4 @@ from . import models
 admin.site.register(models.Note)
 admin.site.register(models.Trip)
 #test one
+#test 2
